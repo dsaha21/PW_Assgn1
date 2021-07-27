@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">W1_JASON</string>
+    <string-array name="options">
+        <item>THE OPTIONS </item>
+
+    </string-array>
+</resources>
